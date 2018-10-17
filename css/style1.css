@@ -1,0 +1,40 @@
+body{
+	background: url("../img/yoga_bg.jpg");
+	background-size: cover;
+    background-repeat: no-repeat
+
+	
+	
+}
+
+classone{
+    
+    background-color: #1ed16b;
+    width: 35%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 38px;
+    padding-top: 8px;
+    
+}
+
+div{
+     background-color: orange;
+    width: 35%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 38px;
+    padding-top: 8px;
+    opacity: 0.6;
+    
+}
+
+button{
+    background: sandybrown;
+    padding: 20px;
+    color: white;
+    border-radius: 18px;
+    
+   
+    
+}
